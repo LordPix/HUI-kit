@@ -4,6 +4,7 @@ This is a project to intrduce User Interface kit design for arabic audience can 
 website works in RTL 
 
 ## Table of Contents
+
 - Programme language 
 - Installation
 - Usage
@@ -13,6 +14,7 @@ website works in RTL
 
 
 ## Programme languages 
+
 - Html5
 - CSS
   
@@ -21,19 +23,23 @@ website works in RTL
 - By downloading the file you can access the full source code
 
 ## Usage 
+
 - download zip file 
   
 ## Contributing
 
-- Fork the repository.
-- Create a new branch (git checkout -b feature-branch).
-- Make your changes.
-- Commit your changes (git commit -m 'Add some feature').
-- Push to the branch (git push origin feature-branch).
-- Open a pull request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push to the branch (git push origin feature-branch).
+6. Open a pull request.
 
-## License 
+## License
+
+This project is licensed under the MIT License - see the link [License](https://github.com/LordPix/HUI-kit/blob/main/LICENSE).
 
 ## Support & collaboration
+
 happy for any support or collaboration to provide by contacting me here : 
 support@lordpix.fun 
