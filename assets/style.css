@@ -1,3 +1,7 @@
+
+
+/***** Section *****/  
+
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 html{
@@ -935,3 +939,5 @@ body {
 .rating-star-3{width: 50px; height: 50px; left: 150px; top: 10px; position: absolute}
 .rating-star-4{width: 50px; height: 50px; left: 200px; top: 10px; position: absolute}
 .rating-star-5{width: 50px; height: 50px; left: 250px; top: 10px; position: absolute}
+
+/***** End Section *****/
