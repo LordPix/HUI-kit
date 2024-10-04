@@ -1,7 +1,7 @@
 # HUI-Kit Project 
 
 This is a project to intrduce User Interface kit design for arabic audience can be used to design websites . Basically, will be focus in arabic designs which support 
-website works in RTL 
+website works in RTL. Arabic patterns will be the main drive of this project to design the elements. 
 
 ## Table of Contents
 
