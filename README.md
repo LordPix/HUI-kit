@@ -16,7 +16,7 @@ website works in RTL. Arabic patterns will be the main drive of this project to 
 ## Programme languages 
 
 - Html5
-- CSS
+- CSS3
   
 ## Installation
 
