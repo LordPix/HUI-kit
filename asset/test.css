@@ -1,361 +1,3471 @@
-.Frame2 { width: 1584px; height: 1752px; position: relative
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+html{
+    font-family: 'robot', sans-serif;
 }
-.Buttons { width: 331px; height: 157px; left: 127px; top: 41px; position: absolute
+body {
+    font-family: 'robot', sans-serif;
+    background-color:rgb(10, 63, 63) ;
 }
-.Rectangle31 { width: 150px; height: 45px; left: 65px; top: 112px; position: absolute; background: #73BFB8; border-radius: 10px; border-right: 4px #FEC601 solid
+
+
+
+.Frame2 {
+    width: 1584px;
+    height: 1752px;
+    position: relative
 }
-.Rectangle18 { width: 100px; height: 35px; left: 231px; top: 107px; position: absolute; background: #73BFB8; border-radius: 10px; border-right: 4px #FEC601 solid
+
+.Buttons {
+    width: 331px;
+    height: 157px;
+    left: 127px;
+    top: 41px;
+    position: absolute
 }
-.Rectangle33 { width: 150px; height: 45px; left: 65px; top: 57px; position: absolute; background: #FEC601; border-radius: 10px; border-right: 4px #73BFB8 solid
+
+.Rectangle31 {
+    width: 150px;
+    height: 45px;
+    left: 65px;
+    top: 112px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
 }
-.Rectangle862 { width: 100px; height: 35px; left: 231px; top: 62px; position: absolute; background: #FEC601; border-radius: 10px; border-right: 4px #73BFB8 solid
+
+.Rectangle18 {
+    width: 100px;
+    height: 35px;
+    left: 231px;
+    top: 107px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
 }
-.X47 { width: 100px; height: 29px; left: 231px; top: 33px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 400; word-wrap: break-word
+
+.Rectangle33 {
+    width: 150px;
+    height: 45px;
+    left: 65px;
+    top: 57px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
 }
-.X508 { width: 100px; height: 29px; left: 70px; top: 34px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 400; word-wrap: break-word
+
+.Rectangle862 {
+    width: 100px;
+    height: 35px;
+    left: 231px;
+    top: 62px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
 }
+
+.X47 {
+    width: 100px;
+    height: 29px;
+    left: 231px;
+    top: 33px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.X508 {
+    width: 100px;
+    height: 29px;
+    left: 70px;
+    top: 34px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
 .Buttons1 {
-    width: 94px; height: 34px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word
-}
-.Navbar { width: 852px; height: 181px; left: 131px; top: 622px; position: absolute
-}
-.Option1 { width: 800px; height: 45px; left: 52px; top: 136px; position: absolute
-}
-.Rectangle7 { width: 800px; height: 45px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 10px; border-right: 4px #FEC601 solid
-}
-.Hui { width: 34px; height: 28.80px; left: 22px; top: 5.79px; position: absolute"><span style="color: black; font-size: 24px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word">HUI</span><span style="color: black; font-size: 24px; font-family: Archivo Narrow; font-weight: 400; word-wrap: break-word
-}
-.Account { width: 30px; height: 19.29px; left: 742px; top: 12.21px; position: absolute; border-radius: 10px" src="https://via.placeholder.com/30x19
-}
-.Rectangle8 { width: 250px; height: 32.14px; left: 470px; top: 5.79px; position: absolute; background: #73BFB8; border-radius: 10px
-}
-.Search { width: 47px; height: 21.60px; left: 502px; top: 9px; position: absolute; color: white; font-size: 18px; font-family: Archivo Narrow; font-weight: 400; word-wrap: break-word
-}
-.Option2 { width: 800px; height: 45px; left: 52px; top: 57px; position: absolute
-}
-.Rating { width: 342px; height: 104px; left: 132px; top: 1596px; position: absolute
-}
-.Group16 { width: 300px; height: 45px; left: 42px; top: 59px; position: absolute
-}
-.Rectangle10 { width: 300px; height: 45px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 10px; border-right: 4px #FEC601 solid
-}
-.Star1 { width: 45px; height: 28.93px; left: 29.70px; top: 6.43px; position: absolute" src="https://via.placeholder.com/45x29
-}
-.Star2 { width: 45px; height: 28.93px; left: 125px; top: 6.43px; position: absolute" src="https://via.placeholder.com/45x29
-}
-.Star23 { width: 45px; height: 28.93px; left: 173px; top: 6.43px; position: absolute" src="https://via.placeholder.com/45x29
-}
-.Star4 { width: 45px; height: 28.93px; left: 221px; top: 6.43px; position: absolute" src="https://via.placeholder.com/45x29
-}
-.Star73 { width: 45px; height: 28.93px; left: 77px; top: 6.43px; position: absolute" src="https://via.placeholder.com/45x29
-}
-.Toast { width: 552px; height: 139px; left: 131px; top: 842px; position: absolute
-}
-.Success1 { width: 500px; height: 45px; left: 52px; top: 34px; position: absolute
-}
-.Rectangle11 { width: 500px; height: 45px; left: 0px; top: 0px; position: absolute; background: #73BFB8; border-radius: 10px
-}
-.ToastBody { width: 238px; height: 24.30px; left: 32px; top: 12.60px; position: absolute; color: #020000; font-size: 18px; font-family: Archivo Narrow; font-weight: 400; word-wrap: break-word
-}
-.XCircle { width: 30px; height: 27px; left: 452px; top: 9px; position: absolute" src="https://via.placeholder.com/30x27
-}
-.Warning { width: 500px; height: 45px; left: 52px; top: 94px; position: absolute
-}
-.Forms { width: 376px; height: 247px; left: 131px; top: 1015px; position: absolute
-}
-.Group14 { width: 250px; height: 153px; left: 55px; top: 24px; position: absolute
-}
-.Rectangle12 { width: 250px; height: 45px; left: 0px; top: 0px; position: absolute; background: #FEC601; border-radius: 10px; border-right: 4px #73BFB8 solid
-}
-.Email { left: 25px; top: 12px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Password { left: 25px; top: 70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Ellipse1 { width: 22px; height: 23px; left: 25px; top: 130px; position: absolute; background: #73BFB8; border-radius: 9999px; border: 4px #FEC601 solid
-}
-.Bar2 { width: 300px; height: 23px; left: 55px; top: 224px; position: absolute
-}
-.Bard { width: 300px; height: 10px; left: 0px; top: 7px; position: absolute; background: #FEC601; border-radius: 10px
-}
-.Ellipse2 { width: 22px; height: 23px; left: 178px; top: 0px; position: absolute; background: #FEC601; border-radius: 9999px; border: 4px #73BFB8 solid
-}
-.Barf1 { width: 300px; height: 23px; left: 55px; top: 189px; position: absolute
-}
-.Barg { width: 300px; height: 10px; left: 0px; top: 7px; position: absolute; background: #73BFB8; border-radius: 10px
-}
-.Ellipse5 { width: 22px; height: 23px; left: 255px; top: 0px; position: absolute; background: #73BFB8; border-radius: 9999px; border: 4px #FEC601 solid
-}
-.Ellipse3 { width: 22px; height: 23px; left: 152px; top: 154px; position: absolute; background: white; border-radius: 9999px; border: 4px #FEC601 solid
-}
-.Ellipse4 { width: 22px; height: 23px; left: 185px; top: 154px; position: absolute; background: white; border-radius: 9999px; border: 4px #73BFB8 solid
-}
-.Rectangle19 { width: 30px; height: 30px; left: 346px; top: 75px; position: absolute; background: white; border-radius: 5px; border: 4px #FEC601 solid
-}
-.Form { left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word
-}
-.GroupButton { width: 856px; height: 99px; left: 127px; top: 465px; position: absolute
-}
-.Group7 { width: 390px; height: 45px; left: 466px; top: 54px; position: absolute
-}
-.Rectangle13 { width: 390px; height: 45px; left: 0px; top: 0px; position: absolute; background: #FEC601; border-radius: 10px; border-right: 4px #73BFB8 solid
-}
-.Line1 { width: 45px; height: 0px; left: 261px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #73BFB8 solid
-}
-.Line2 { width: 45px; height: 0px; left: 127px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #73BFB8 solid
-}
-.Left { width: 50px; height: 25.07px; left: 54px; top: 11px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Right { width: 58px; height: 25.07px; left: 313px; top: 11px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Middle { width: 68px; height: 25.07px; left: 174px; top: 11px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-} 
-.Group8 { width: 390px; height: 45px; left: 56px; top: 54px; position: absolute
-}
-.GroupButtons {  width: 155px; height: 34px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word
-}
-.Pagination { width: 570px; height: 161px; left: 127px; top: 261px; position: absolute
-}
-.Line3 { width: 45px; height: 0px; left: 143px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #73BFB8 solid
-}
-.Line4 { width: 45px; height: 0px; left: 110px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #73BFB8 solid
-}
-.Line5 { width: 45px; height: 0px; left: 209px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #73BFB8 solid
-}
-.Line6 { width: 45px; height: 0px; left: 176px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #73BFB8 solid
-}
-.line3oik { width: 32.05px; height: 25.07px; left: 20px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line1321 { width: 56px; height: 25.20px; left: 56.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line12 { width: 37.18px; height: 25.07px; left: 90.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-} 
-.line123 { width: 56px; height: 25.20px; left: 125.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line1234 { width: 37.18px; height: 25.07px; left: 159.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line213 { width: 56px; height: 25.20px; left: 186.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line543 { width: 21px; height: 25.20px; left: 221px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Option12 { width: 250px; height: 45px; left: 320px; top: 116px; position: absolute
-}
-.line5 { width: 8px; height: 19.80px; left: 19px; top: 11.70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line4 { width: 8px; height: 19.80px; left: 55.79px; top: 11.70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line73 { width: 8px; height: 19.80px; left: 89.79px; top: 11.70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line7 { width: 8px; height: 19.80px; left: 124.79px; top: 11.70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line89 { width: 8px; height: 19.80px; left: 158.79px; top: 11.70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line75 { width: 8px; height: 19.80px; left: 185.79px; top: 11.70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line722 { width: 8px; height: 19.80px; left: 224px; top: 11.70px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line433 { width: 96px; height: 25.20px; left: 14px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line411 { width: 37.18px; height: 25.07px; left: 90.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line455 { width: 56px; height: 25.20px; left: 125.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line48 { width: 37.18px; height: 25.07px; left: 159.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line499 { width: 56px; height: 25.20px; left: 186.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line4546 { width: 17px; height: 25.20px; left: 221px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Option22 { width: 250px; height: 45px; left: 319px; top: 52px; position: absolute
-}
-.line3oim4 { width: 96px; height: 25.20px; left: 13px; top: 9.90px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line3oib2 { width: 8px; height: 19.80px; left: 90.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line3oivc3 { width: 8px; height: 19.80px; left: 125.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line3oivze5 { width: 8px; height: 19.80px; left: 156px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line876887 { width: 8px; height: 19.80px; left: 186.79px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.line62 { width: 8px; height: 19.80px; left: 224px; top: 10.80px; position: absolute; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Modal { width: 642px; height: 252px; left: 132px; top: 1291px; position: absolute
-}
-.Group13 { width: 600px; height: 200px; left: 42px; top: 52px; position: absolute
-}
-.Rectangle9 { width: 600px; height: 200px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 10px; border-right: 4px #FEC601 solid
-}
-.ThisIsModalBarh { left: 226px; top: 86px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Archivo Narrow; font-weight: 400; word-wrap: break-word
-}
-.Vector { width: 15px; height: 15px; left: 31px; top: 24px; position: absolute; background: black
-}
-.Group11 { width: 349px; height: 554px; left: 132px; top: 2213px; position: absolute
-}
-.Rectangle14 { width: 300px; height: 500px; left: 49px; top: 54px; position: absolute; background: white; border-radius: 10px; border-right: 4px #FEC601 solid
-}
-.ImageHolder1000x300 { left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word
-}
-.Group10 { width: 1044px; height: 360px; left: 137px; top: 1785px; position: absolute
-}
-.Rectangle15 { width: 1000px; height: 300px; left: 44px; top: 60px; position: absolute; background: white; border-radius: 10px; border-right: 4px #FEC601 solid
-}
-.Carousel { width: 1071px; height: 448px; left: 115px; top: 3380px; position: absolute
-}
-.Rectangle16 {  width: 1000px; height: 400px; left: 71px; top: 48px; position: absolute; background: white; border-radius: 10px; border-left: 4px #FEC601 solid
-}
-.Card { width: 721px; height: 450px; left: 115px; top: 2848px; position: absolute
-}
-.Group17 { width: 300px; height: 400px; left: 66px; top: 50px; position: absolute
-}
-.Rectangle5 { width: 300px; height: 400px; left: 0px; top: 0px; position: absolute; background: #73BFB8; border-radius: 10px; border-right: 4px #FEC601 solid
-}
-.CardBody1 { width: 230px; height: 94px; left: 39px; top: 276px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Rectangle6 {  width: 270px; height: 250px; left: 15px; top: 8px; position: absolute; background: white; border-radius: 10px; border-right: 2px #FEC601 solid; border-bottom: 2px #FEC601 solid
-}
-.Group18 { width: 300px; height: 400px; left: 421px; top: 50px; position: absolute
-}
-.CardBody3 { width: 230px; height: 94px; left: 39px; top: 276px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Archivo Narrow; font-weight: 600; word-wrap: break-word
-}
-.Card270x250 { left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word
-}
-.Frame1 { 
-}
+    width: 94px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Navbar {
+    width: 852px;
+    height: 181px;
+    left: 131px;
+    top: 622px;
+    position: absolute
+}
+
+.Option1 {
+    width: 800px;
+    height: 45px;
+    left: 52px;
+    top: 136px;
+    position: absolute
+}
+
+.Rectangle7 {
+    width: 800px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.Hui {
+    width: 34px;
+    height: 28.80px;
+    left: 22px;
+    top: 5.79px;
+    position: absolute
+    
+}
+
+.Account {
+    width: 30px;
+    height: 19.29px;
+    left: 742px;
+    top: 12.21px;
+    position: absolute;
+    border-radius: 10px
+}
+
+.Rectangle8 {
+    width: 250px;
+    height: 32.14px;
+    left: 470px;
+    top: 5.79px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px
+}
+
+.Search {
+    width: 47px;
+    height: 21.60px;
+    left: 502px;
+    top: 9px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.Option2 {
+    width: 800px;
+    height: 45px;
+    left: 52px;
+    top: 57px;
+    position: absolute
+}
+
+.Rectangle7 {
+    width: 800px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
+}
+
+.Hui {
+    width: 34px;
+    height: 28.80px;
+    left: 22px;
+    top: 5.79px;
+    position: absolute
+}
+
+.Account {
+    width: 30px;
+    height: 19.29px;
+    left: 742px;
+    top: 12.21px;
+    position: absolute;
+    border-radius: 10px
+}
+
+.Rectangle8 {
+    width: 250px;
+    height: 32.14px;
+    left: 470px;
+    top: 5.79px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px
+}
+
+.Search {
+    width: 47px;
+    height: 21.60px;
+    left: 502px;
+    top: 9px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.Navbar {
+    width: 155px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Rating {
+    width: 342px;
+    height: 104px;
+    left: 132px;
+    top: 1596px;
+    position: absolute
+}
+
+.Group16 {
+    width: 300px;
+    height: 45px;
+    left: 42px;
+    top: 59px;
+    position: absolute
+}
+
+.Rectangle10 {
+    width: 300px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.Star1 {
+    width: 45px;
+    height: 28.93px;
+    left: 29.70px;
+    top: 6.43px;
+    position: absolute
+}
+
+.Star2 {
+    width: 45px;
+    height: 28.93px;
+    left: 125px;
+    top: 6.43px;
+    position: absolute
+}
+
+.Star23 {
+    width: 45px;
+    height: 28.93px;
+    left: 173px;
+    top: 6.43px;
+    position: absolute
+}
+
+.Star4 {
+    width: 45px;
+    height: 28.93px;
+    left: 221px;
+    top: 6.43px;
+    position: absolute
+}
+
+.Star73 {
+    width: 45px;
+    height: 28.93px;
+    left: 77px;
+    top: 6.43px;
+    position: absolute
+}
+
+.Rating1 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Toast {
+    width: 552px;
+    height: 139px;
+    left: 131px;
+    top: 842px;
+    position: absolute
+}
+
+.Success1 {
+    width: 500px;
+    height: 45px;
+    left: 52px;
+    top: 34px;
+    position: absolute
+}
+
+.Rectangle11 {
+    width: 500px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px
+}
+
+.ToastBody {
+    width: 238px;
+    height: 24.30px;
+    left: 32px;
+    top: 12.60px;
+    position: absolute;
+    color: #020000;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.XCircle {
+    width: 30px;
+    height: 27px;
+    left: 452px;
+    top: 9px;
+    position: absolute
+}
+.Warning {
+    width: 500px;
+    height: 45px;
+    left: 52px;
+    top: 94px;
+    position: absolute
+}
+
+.Rectangle112 {
+    width: 500px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px
+}
+
+.ToastBody1 {
+    width: 237px;
+    height: 24.30px;
+    left: 32px;
+    top: 12.60px;
+    position: absolute;
+    color: #020000;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.XCircle5 {
+    width: 30px;
+    height: 27px;
+    left: 452px;
+    top: 9px;
+    position: absolute
+}
+
+.Toast1 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Forms {
+    width: 376px;
+    height: 247px;
+    left: 131px;
+    top: 1015px;
+    position: absolute
+}
+
+.Group14 {
+    width: 250px;
+    height: 153px;
+    left: 55px;
+    top: 24px;
+    position: absolute
+}
+
+.Rectangle11 {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
+}
+
+.Rectangle12 {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 58px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
+}
+
+.Email {
+    left: 25px;
+    top: 12px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Password {
+    left: 25px;
+    top: 70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Ellipse1 {
+    width: 22px;
+    height: 23px;
+    left: 25px;
+    top: 130px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 9999px;
+    border: 4px #FEC601 solid
+}
+
+.Bar2 {
+    width: 300px;
+    height: 23px;
+    left: 55px;
+    top: 224px;
+    position: absolute
+}
+
+.Bard {
+    width: 300px;
+    height: 10px;
+    left: 0px;
+    top: 7px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px
+}
+
+.Ellipse2 {
+    width: 22px;
+    height: 23px;
+    left: 178px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 9999px;
+    border: 4px #73BFB8 solid
+}
+
+.Barf1 {
+    width: 300px;
+    height: 23px;
+    left: 55px;
+    top: 189px;
+    position: absolute
+}
+
+.Barg {
+    width: 300px;
+    height: 10px;
+    left: 0px;
+    top: 7px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px
+}
+
+.Ellipse5 {
+    width: 22px;
+    height: 23px;
+    left: 255px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 9999px;
+    border: 4px #FEC601 solid
+}
+
+.Ellipse21 {
+    width: 22px;
+    height: 23px;
+    left: 113px;
+    top: 154px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 9999px;
+    border: 4px #73BFB8 solid
+}
+
+.Ellipse3 {
+    width: 22px;
+    height: 23px;
+    left: 152px;
+    top: 154px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+    border: 4px #FEC601 solid
+}
+
+.Ellipse4 {
+    width: 22px;
+    height: 23px;
+    left: 185px;
+    top: 154px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+    border: 4px #73BFB8 solid
+}
+
+.Rectangle181 {
+    width: 30px;
+    height: 30px;
+    left: 346px;
+    top: 28px;
+    position: absolute;
+    background: white;
+    border-radius: 5px;
+    border: 4px #73BFB8 solid
+}
+
+.Rectangle19 {
+    width: 30px;
+    height: 30px;
+    left: 346px;
+    top: 75px;
+    position: absolute;
+    background: white;
+    border-radius: 5px;
+    border: 4px #FEC601 solid
+}
+
+.Form {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.GroupButton {
+    width: 856px;
+    height: 99px;
+    left: 127px;
+    top: 465px;
+    position: absolute
+}
+
+.Group7 {
+    width: 390px;
+    height: 45px;
+    left: 466px;
+    top: 54px;
+    position: absolute
+}
+
+.Rectangle13 {
+    width: 390px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
+}
+
+.Line1 {
+    width: 45px;
+    height: 0px;
+    left: 261px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line2 {
+    width: 45px;
+    height: 0px;
+    left: 127px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Left {
+    width: 50px;
+    height: 25.07px;
+    left: 54px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Right {
+    width: 58px;
+    height: 25.07px;
+    left: 313px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Middle {
+    width: 68px;
+    height: 25.07px;
+    left: 174px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Group8 {
+    width: 390px;
+    height: 45px;
+    left: 56px;
+    top: 54px;
+    position: absolute
+}
+
+.Rectangle134 {
+    width: 390px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.Line17 {
+    width: 45px;
+    height: 0px;
+    left: 261px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line28 {
+    width: 45px;
+    height: 0px;
+    left: 127px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Left9 {
+    left: 52px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Right0 {
+    left: 309px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Middle55 {
+    left: 172px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.GroupButtons {
+    width: 155px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Pagination {
+    width: 570px;
+    height: 161px;
+    left: 127px;
+    top: 261px;
+    position: absolute
+}
+
+.Option16 {
+    width: 250px;
+    height: 45px;
+    left: 57px;
+    top: 116px;
+    position: absolute
+}
+
+.Rectangle139 {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
+}
+
+.Line143 {
+    width: 45px;
+    height: 0px;
+    left: 77px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line223 {
+    width: 45px;
+    height: 0px;
+    left: 44px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line3 {
+    width: 45px;
+    height: 0px;
+    left: 143px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line4 {
+    width: 45px;
+    height: 0px;
+    left: 110px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line5 {
+    width: 45px;
+    height: 0px;
+    left: 209px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line6 {
+    width: 45px;
+    height: 0px;
+    left: 176px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.line3oik {
+    width: 32.05px;
+    height: 25.07px;
+    left: 20px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line1321 {
+    width: 56px;
+    height: 25.20px;
+    left: 56.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line12 {
+    width: 37.18px;
+    height: 25.07px;
+    left: 90.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line123 {
+    width: 56px;
+    height: 25.20px;
+    left: 125.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line1234 {
+    width: 37.18px;
+    height: 25.07px;
+    left: 159.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line213 {
+    width: 56px;
+    height: 25.20px;
+    left: 186.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line543 {
+    width: 21px;
+    height: 25.20px;
+    left: 221px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Option12 {
+    width: 250px;
+    height: 45px;
+    left: 320px;
+    top: 116px;
+    position: absolute
+}
+
+.Rectangle1878 {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.Line98 {
+    width: 45px;
+    height: 0px;
+    left: 77px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line456 {
+    width: 45px;
+    height: 0px;
+    left: 44px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.line5 {
+    width: 8px;
+    height: 19.80px;
+    left: 19px;
+    top: 11.70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line4 {
+    width: 8px;
+    height: 19.80px;
+    left: 55.79px;
+    top: 11.70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line73 {
+    width: 8px;
+    height: 19.80px;
+    left: 89.79px;
+    top: 11.70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line499 {
+    width: 45px;
+    height: 0px;
+    left: 143px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line88 {
+    width: 45px;
+    height: 0px;
+    left: 110px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.line7 {
+    width: 8px;
+    height: 19.80px;
+    left: 124.79px;
+    top: 11.70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line89 {
+    width: 8px;
+    height: 19.80px;
+    left: 158.79px;
+    top: 11.70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.lineee1 {
+    width: 45px;
+    height: 0px;
+    left: 209px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Linee6 {
+    width: 45px;
+    height: 0px;
+    left: 176px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.line75 {
+    width: 8px;
+    height: 19.80px;
+    left: 185.79px;
+    top: 11.70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line722 {
+    width: 8px;
+    height: 19.80px;
+    left: 224px;
+    top: 11.70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Option98 {
+    width: 250px;
+    height: 45px;
+    left: 56px;
+    top: 52px;
+    position: absolute
+}
+
+.Rectanglee1 {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
+}
+
+.Linee89 {
+    width: 45px;
+    height: 0px;
+    left: 79px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.line433 {
+    width: 96px;
+    height: 25.20px;
+    left: 14px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line411 {
+    width: 37.18px;
+    height: 25.07px;
+    left: 90.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Line3e {
+    width: 45px;
+    height: 0px;
+    left: 143px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line4e {
+    width: 45px;
+    height: 0px;
+    left: 111px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.line455 {
+    width: 56px;
+    height: 25.20px;
+    left: 125.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line48 {
+    width: 37.18px;
+    height: 25.07px;
+    left: 159.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Linew5 {
+    width: 45px;
+    height: 0px;
+    left: 207px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Linew6 {
+    width: 45px;
+    height: 0px;
+    left: 175px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.line499 {
+    width: 56px;
+    height: 25.20px;
+    left: 186.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line4546 {
+    width: 17px;
+    height: 25.20px;
+    left: 221px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Option22 {
+    width: 250px;
+    height: 45px;
+    left: 319px;
+    top: 52px;
+    position: absolute
+}
+
+.Rectangle101 {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.Line101 {
+    width: 45px;
+    height: 0px;
+    left: 79px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.line3oim4 {
+    width: 96px;
+    height: 25.20px;
+    left: 13px;
+    top: 9.90px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line3oib2 {
+    width: 8px;
+    height: 19.80px;
+    left: 90.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Line301 {
+    width: 45px;
+    height: 0px;
+    left: 143px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line403 {
+    width: 45px;
+    height: 0px;
+    left: 111px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.line3oivc3 {
+    width: 8px;
+    height: 19.80px;
+    left: 125.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line3oivze5 {
+    width: 8px;
+    height: 19.80px;
+    left: 156px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Line591 {
+    width: 45px;
+    height: 0px;
+    left: 207px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line682 {
+    width: 45px;
+    height: 0px;
+    left: 175px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.line876887 {
+    width: 8px;
+    height: 19.80px;
+    left: 186.79px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.line62 {
+    width: 8px;
+    height: 19.80px;
+    left: 224px;
+    top: 10.80px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Pagination2 {
+    width: 113px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Modal {
+    width: 642px;
+    height: 252px;
+    left: 132px;
+    top: 1291px;
+    position: absolute
+}
+
+.Group13 {
+    width: 600px;
+    height: 200px;
+    left: 42px;
+    top: 52px;
+    position: absolute
+}
+
+.Rectangle9 {
+    width: 600px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.ThisIsModalBarh {
+    left: 226px;
+    top: 86px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.Vector {
+    width: 15px;
+    height: 15px;
+    left: 31px;
+    top: 24px;
+    position: absolute;
+    background: black
+}
+
+.Modal2 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Group11 {
+    width: 349px;
+    height: 554px;
+    left: 132px;
+    top: 2213px;
+    position: absolute
+}
+
+.Rectangle14 {
+    width: 300px;
+    height: 500px;
+    left: 49px;
+    top: 54px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.ImageHolder1000x300 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Group10 {
+    width: 1044px;
+    height: 360px;
+    left: 137px;
+    top: 1785px;
+    position: absolute
+}
+
+.Rectangle15 {
+    width: 1000px;
+    height: 300px;
+    left: 44px;
+    top: 60px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.ImageHolder1000x3001 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Carousel {
+    width: 1071px;
+    height: 448px;
+    left: 115px;
+    top: 3380px;
+    position: absolute
+}
+
+.Rectangle16 {
+    width: 1000px;
+    height: 400px;
+    left: 71px;
+    top: 48px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+.Vector34 {
+    width: 40px;
+    height: 40px;
+    left: 943px;
+    top: 230px;
+    position: absolute;
+    background: black
+}
+
+.Vector543 {
+    width: 40px;
+    height: 40px;
+    left: 183px;
+    top: 230px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    background: black
+}
+
+.Carousel1 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Card {
+    width: 721px;
+    height: 450px;
+    left: 115px;
+    top: 2848px;
+    position: absolute
+}
+
+.Group17 {
+    width: 300px;
+    height: 400px;
+    left: 66px;
+    top: 50px;
+    position: absolute
+}
+
+.Rectangle5 {
+    width: 300px;
+    height: 400px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-right: 4px #FEC601 solid
+}
+
+.CardBody1 {
+    width: 230px;
+    height: 94px;
+    left: 39px;
+    top: 276px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Rectangle6 {
+    width: 270px;
+    height: 250px;
+    left: 15px;
+    top: 8px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 2px #FEC601 solid;
+    border-bottom: 2px #FEC601 solid
+}
+
+.Group18 {
+    width: 300px;
+    height: 400px;
+    left: 421px;
+    top: 50px;
+    position: absolute
+}
+
+.Rectangley2 {
+    width: 300px;
+    height: 400px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-right: 4px #73BFB8 solid
+}
+
+.CardBody3 {
+    width: 230px;
+    height: 94px;
+    left: 39px;
+    top: 276px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.Rectangle01 {
+    width: 270px;
+    height: 250px;
+    left: 15px;
+    top: 8px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-right: 2px #FEC601 solid;
+    border-bottom: 2px #FEC601 solid
+}
+
+.Card270x250 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Frame1 {
+    width: 1584px;
+    height: 1752px;
+    position: relative
+}
+
+.Buttons71 {
+    width: 331px;
+    height: 157px;
+    left: 127px;
+    top: 41px;
+    position: absolute
+}
+
 .Rectangle334 {
+    width: 150px;
+    height: 45px;
+    left: 65px;
+    top: 112px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
 }
+
 .Rectangle86524 {
+    width: 100px;
+    height: 35px;
+    left: 231px;
+    top: 107px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
 }
+
 .X5061 {
+    width: 150px;
+    height: 68px;
+    left: 65px;
+    top: 34px;
+    position: absolute
 }
+
 .Rectangle3341 {
+    width: 150px;
+    height: 45px;
+    left: 0px;
+    top: 23px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
 }
+
 .X50913 {
+    width: 100px;
+    height: 29px;
+    left: 5px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
 }
+
 .X441 {
+    width: 100px;
+    height: 64px;
+    left: 231px;
+    top: 33px;
+    position: absolute
 }
+
 .Rectangle123 {
+    width: 100px;
+    height: 35px;
+    left: 0px;
+    top: 29px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
 }
+
 .X44314 {
+    width: 100px;
+    height: 29px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
 }
+
 .ButtonsAr {
+    width: 94px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
 .NavBarz {
+    width: 852px;
+    height: 181px;
+    left: 131px;
+    top: 622px;
+    position: absolute
 }
+
+.Option152 {
+    width: 800px;
+    height: 45px;
+    left: 52px;
+    top: 136px;
+    position: absolute
+}
+
+.Rectangle773 {
+    width: 800px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+.Hui456 {
+    width: 34px;
+    height: 28.80px;
+    left: 735px;
+    top: 8px;
+    position: absolute
+}
+
+.Account654 {
+    width: 30px;
+    height: 19.29px;
+    left: 22px;
+    top: 10px;
+    position: absolute;
+    border-radius: 10px
+}
+
+.Rectangle8823 {
+    width: 250px;
+    height: 32.14px;
+    left: 66px;
+    top: 6px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px
+}
+
 .line61 {
+    width: 47px;
+    height: 21.60px;
+    left: 256px;
+    top: 10px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
 }
+
+.Option29 {
+    width: 800px;
+    height: 45px;
+    left: 52px;
+    top: 57px;
+    position: absolute
+}
+
+.Rectangle709 {
+    width: 800px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
+}
+
+.Hui09 {
+    width: 34px;
+    height: 28.80px;
+    left: 735px;
+    top: 5px;
+    position: absolute
+}
+
+.Account90 {
+    width: 30px;
+    height: 19.29px;
+    left: 22px;
+    top: 10px;
+    position: absolute;
+    border-radius: 10px
+}
+
+.Rectangle8099 {
+    width: 250px;
+    height: 32.14px;
+    left: 70px;
+    top: 6px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px
+}
+
 .line6 {
+    width: 47px;
+    height: 21.60px;
+    left: 256px;
+    top: 7px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
 }
+
 .NavBaraAr {
+    width: 155px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
+.Rating53 {
+    width: 342px;
+    height: 104px;
+    left: 132px;
+    top: 1596px;
+    position: absolute
+}
+
+.Group1621 {
+    width: 300px;
+    height: 45px;
+    left: 42px;
+    top: 59px;
+    position: absolute
+}
+
+.Rectangle1001 {
+    width: 300px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
 .Star723 {
+    width: 45px;
+    height: 28.93px;
+    left: 29.70px;
+    top: 6.43px;
+    position: absolute
 }
+
 .Star72 {
+    width: 45px;
+    height: 28.93px;
+    left: 125px;
+    top: 6.43px;
+    position: absolute
 }
+
 .Star7 {
+    width: 45px;
+    height: 28.93px;
+    left: 173px;
+    top: 6.43px;
+    position: absolute
 }
+
 .Star8 {
+    width: 45px;
+    height: 28.93px;
+    left: 221px;
+    top: 6.43px;
+    position: absolute
 }
+
 .Star94 {
+    width: 45px;
+    height: 28.93px;
+    left: 77px;
+    top: 6.43px;
+    position: absolute
 }
+
 .RatingAr {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
+.Toast908 {
+    width: 552px;
+    height: 139px;
+    left: 131px;
+    top: 842px;
+    position: absolute
+}
+
 .Success3 {
+    width: 500px;
+    height: 45px;
+    left: 52px;
+    top: 34px;
+    position: absolute
 }
+
+.Rectangle2231 {
+    width: 500px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px
+}
+
 .ToastBodyAr {
+    left: 306px;
+    top: 11px;
+    position: absolute;
+    color: #020000;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
 }
+
+.Vector54 {
+    width: 15px;
+    height: 15px;
+    left: 23px;
+    top: 15px;
+    position: absolute;
+    background: black
+}
+
+.Warning123 {
+    width: 500px;
+    height: 45px;
+    left: 52px;
+    top: 94px;
+    position: absolute
+}
+
+.Rectanglgk1 {
+    width: 500px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px
+}
+
+.ToastBodybe {
+    left: 303px;
+    top: 9px;
+    position: absolute;
+    color: #020000;
+    font-size: 18px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.Vectorr1 {
+    width: 15px;
+    height: 15px;
+    left: 23px;
+    top: 15px;
+    position: absolute;
+    background: black
+}
+
 .ToaStar924 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
+.Formss1 {
+    width: 376px;
+    height: 247px;
+    left: 131px;
+    top: 1015px;
+    position: absolute
+}
+
+.Group14rg {
+    width: 250px;
+    height: 153px;
+    left: 55px;
+    top: 24px;
+    position: absolute
+}
+
+.Rectangle11g {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
+}
+
+.Rectangle12e {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 58px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
+}
+
+
 .line67 {
+    left: 119px;
+    top: 12px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line68 {
+    left: 145px;
+    top: 70px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Ellipse1mo {
+    width: 22px;
+    height: 23px;
+    left: 25px;
+    top: 130px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 9999px;
+    border: 4px #FEC601 solid
+}
+
 .Barh2 {
+    width: 300px;
+    height: 23px;
+    left: 55px;
+    top: 224px;
+    position: absolute
 }
+
 .Barj {
+    width: 300px;
+    height: 10px;
+    left: 0px;
+    top: 7px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px
 }
+
+.Ellipse2e1 {
+    width: 22px;
+    height: 23px;
+    left: 178px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 9999px;
+    border: 4px #73BFB8 solid
+}
+
 .Barjn1 {
+    width: 300px;
+    height: 23px;
+    left: 55px;
+    top: 189px;
+    position: absolute
 }
+
 .Bar {
+    width: 300px;
+    height: 10px;
+    left: 0px;
+    top: 7px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px
 }
+
 .Ellipse51 {
+    width: 22px;
+    height: 23px;
+    left: 255px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 9999px;
+    border: 4px #FEC601 solid
 }
+
+.Ellipse2m {
+    width: 22px;
+    height: 23px;
+    left: 113px;
+    top: 154px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 9999px;
+    border: 4px #73BFB8 solid
+}
+
+.Ellipse3n {
+    width: 22px;
+    height: 23px;
+    left: 152px;
+    top: 154px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+    border: 4px #FEC601 solid
+}
+
+.Ellipse4n {
+    width: 22px;
+    height: 23px;
+    left: 185px;
+    top: 154px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+    border: 4px #73BFB8 solid
+}
+
+.Rectangle18m {
+    width: 30px;
+    height: 30px;
+    left: 346px;
+    top: 28px;
+    position: absolute;
+    background: white;
+    border-radius: 5px;
+    border: 4px #73BFB8 solid
+}
+
+.Rectangle19b {
+    width: 30px;
+    height: 30px;
+    left: 346px;
+    top: 75px;
+    position: absolute;
+    background: white;
+    border-radius: 5px;
+    border: 4px #FEC601 solid
+}
+
+.Formmn {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.GroupButton1 {
+    width: 856px;
+    height: 99px;
+    left: 127px;
+    top: 465px;
+    position: absolute
+}
+
+.Group721 {
+    width: 390px;
+    height: 45px;
+    left: 466px;
+    top: 54px;
+    position: absolute
+}
+
+.Rectangle13d {
+    width: 390px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
+}
+
+.Line1de {
+    width: 45px;
+    height: 0px;
+    left: 261px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line2fv {
+    width: 45px;
+    height: 0px;
+    left: 127px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
 .line69 {
+    width: 50px;
+    height: 25.07px;
+    left: 54px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line67654 {
+    width: 58px;
+    height: 25.07px;
+    left: 313px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .linefds {
+    width: 68px;
+    height: 25.07px;
+    left: 174px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Group812 {
+    width: 390px;
+    height: 45px;
+    left: 56px;
+    top: 54px;
+    position: absolute
+}
+
+.Rectangle13885 {
+    width: 390px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+.Line1ty {
+    width: 45px;
+    height: 0px;
+    left: 261px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line2yt {
+    width: 45px;
+    height: 0px;
+    left: 127px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
 .line151d {
+    left: 52px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line57 {
+    left: 309px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line578 {
+    left: 172px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.GroupButtons96765o {
+    width: 155px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Paginationo {
+    width: 570px;
+    height: 161px;
+    left: 127px;
+    top: 261px;
+    position: absolute
+}
+
+.Option1o {
+    width: 250px;
+    height: 45px;
+    left: 57px;
+    top: 116px;
+    position: absolute
+}
+
+.Rectangle13o {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
+}
+
+.Line1o {
+    width: 45px;
+    height: 0px;
+    left: 77px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line2o {
+    width: 45px;
+    height: 0px;
+    left: 44px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line3o {
+    width: 45px;
+    height: 0px;
+    left: 143px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line4o {
+    width: 45px;
+    height: 0px;
+    left: 110px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line5o {
+    width: 45px;
+    height: 0px;
+    left: 209px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line6o {
+    width: 45px;
+    height: 0px;
+    left: 176px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
 .line5765 {
+    left: 226px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line5795 {
+    left: 190px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line5345 {
+    left: 160px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line53488 {
+    left: 125px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line512 {
+    left: 90px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line52123 {
+    left: 55px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line5m {
+    left: 20px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Option12i {
+    width: 250px;
+    height: 45px;
+    left: 320px;
+    top: 116px;
+    position: absolute
+}
+
+.Rectangle13i {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+.Line1i {
+    width: 45px;
+    height: 0px;
+    left: 77px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line2i {
+    width: 45px;
+    height: 0px;
+    left: 44px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
 .line5c {
+    width: 8px;
+    height: 19.80px;
+    left: 224px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line5r {
+    width: 8px;
+    height: 19.80px;
+    left: 191px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line5t {
+    width: 8px;
+    height: 19.80px;
+    left: 159px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Line3c {
+    width: 45px;
+    height: 0px;
+    left: 143px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line4c {
+    width: 45px;
+    height: 0px;
+    left: 110px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
 .line5y {
+    width: 8px;
+    height: 19.80px;
+    left: 124.79px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line5u {
+    width: 8px;
+    height: 19.80px;
+    left: 90px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Line5z {
+    width: 45px;
+    height: 0px;
+    left: 209px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line6z {
+    width: 45px;
+    height: 0px;
+    left: 176px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
 .line5i {
+    width: 8px;
+    height: 19.80px;
+    left: 57px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line5oy {
+    width: 8px;
+    height: 19.80px;
+    left: 21px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Option2b {
+    width: 250px;
+    height: 45px;
+    left: 56px;
+    top: 52px;
+    position: absolute
+}
+
+.Rectangle13b {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
+}
+
+.Line1b {
+    width: 45px;
+    height: 0px;
+    left: 43px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
 .line3f {
+    left: 191px;
+    top: 9px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line3g {
+    left: 161px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Line3p {
+    width: 45px;
+    height: 0px;
+    left: 113px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line4p {
+    width: 45px;
+    height: 0px;
+    left: 78px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
 .line3h {
+    left: 127px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line3j {
+    left: 95px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Line5a {
+    width: 45px;
+    height: 0px;
+    left: 183px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
+.Line6a {
+    width: 45px;
+    height: 0px;
+    left: 148px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #73BFB8 solid
+}
+
 .line3c {
+    left: 56px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line3b {
+    left: 19px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Option22n {
+    width: 250px;
+    height: 45px;
+    left: 319px;
+    top: 52px;
+    position: absolute
+}
+
+.Rectangle13n {
+    width: 250px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+.Line1n {
+    width: 45px;
+    height: 0px;
+    left: 41px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
 .line3x {
+    left: 179px;
+    top: 9px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line3 {
+    width: 8px;
+    height: 19.80px;
+    left: 152px;
+    top: 10px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Line3x {
+    width: 45px;
+    height: 0px;
+    left: 107px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line4x {
+    width: 45px;
+    height: 0px;
+    left: 73px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
 .line3i {
+    width: 8px;
+    height: 19.80px;
+    left: 122px;
+    top: 10px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line3u {
+    width: 8px;
+    height: 19.80px;
+    left: 86px;
+    top: 10px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Line55e {
+    width: 45px;
+    height: 0px;
+    left: 168px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
+.Line65e {
+    width: 45px;
+    height: 0px;
+    left: 139px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px #FEC601 solid
+}
+
 .line3m {
+    width: 8px;
+    height: 19.80px;
+    left: 54px;
+    top: 10px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .line3qw {
+    width: 8px;
+    height: 19.80px;
+    left: 20px;
+    top: 10px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
 .PaginationAr {
+    width: 145px;
+    height: 34px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
+.Modalu {
+    width: 642px;
+    height: 252px;
+    left: 132px;
+    top: 1291px;
+    position: absolute
+}
+
+.Group13u {
+    width: 600px;
+    height: 200px;
+    left: 42px;
+    top: 52px;
+    position: absolute
+}
+
+.Rectangle9u {
+    width: 600px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+
 .line3oo {
+    left: 210px;
+    top: 86px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Archivo Narrow;
+    font-weight: 400;
+    word-wrap: break-word
 }
+
+.Vectoru {
+    width: 15px;
+    height: 15px;
+    left: 556px;
+    top: 22px;
+    position: absolute;
+    background: black
+}
+
 .ModalAr {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
+.Group11l {
+    width: 349px;
+    height: 554px;
+    left: 132px;
+    top: 2213px;
+    position: absolute
+}
+
+.Rectangle14l {
+    width: 300px;
+    height: 500px;
+    left: 49px;
+    top: 54px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
 .ImageHolderAr1000300 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
+.Group10f {
+    width: 1044px;
+    height: 360px;
+    left: 137px;
+    top: 1785px;
+    position: absolute
+}
+
+.Rectangle15f {
+    width: 1000px;
+    height: 300px;
+    left: 44px;
+    top: 60px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+.ImageHolderAr1000300f {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.Carouselh {
+    width: 1071px;
+    height: 448px;
+    left: 115px;
+    top: 3380px;
+    position: absolute
+}
+
+.Rectangle1h {
+    width: 1000px;
+    height: 400px;
+    left: 71px;
+    top: 48px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
+.Vectorh {
+    width: 40px;
+    height: 40px;
+    left: 943px;
+    top: 230px;
+    position: absolute;
+    background: black
+}
+
+.Vectorjh {
+    width: 40px;
+    height: 40px;
+    left: 183px;
+    top: 230px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    background: black
+}
+
 .CarousalAr {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
+
+.Cardgf {
+    width: 721px;
+    height: 450px;
+    left: 115px;
+    top: 2848px;
+    position: absolute
+}
+
+.Group17gf {
+    width: 300px;
+    height: 400px;
+    left: 66px;
+    top: 50px;
+    position: absolute
+}
+
+.Rectangle5gf {
+    width: 300px;
+    height: 400px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #73BFB8;
+    border-radius: 10px;
+    border-left: 4px #FEC601 solid
+}
+
 .CardBody4 {
+    width: 230px;
+    height: 94px;
+    left: 39px;
+    top: 276px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Rectangle6vc {
+    width: 270px;
+    height: 250px;
+    left: 15px;
+    top: 8px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 2px #FEC601 solid;
+    border-bottom: 2px #FEC601 solid
+}
+
+.Group18gb {
+    width: 300px;
+    height: 400px;
+    left: 421px;
+    top: 50px;
+    position: absolute
+}
+
+.Rectangle5bg {
+    width: 300px;
+    height: 400px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEC601;
+    border-radius: 10px;
+    border-left: 4px #73BFB8 solid
+}
+
 .CardBody {
+    width: 230px;
+    height: 94px;
+    left: 39px;
+    top: 276px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Archivo Narrow;
+    font-weight: 600;
+    word-wrap: break-word
 }
+
+.Rectangle6bfd {
+    width: 270px;
+    height: 250px;
+    left: 15px;
+    top: 8px;
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+    border-left: 2px #FEC601 solid;
+    border-bottom: 2px #FEC601 solid
+}
+
 .CardAr270250 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word
 }
